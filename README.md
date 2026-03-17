@@ -65,5 +65,7 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Output:
 
+[prompt experiment (1).pdf](https://github.com/user-attachments/files/26043432/prompt.experiment.1.pdf)
+
 
 Result:
